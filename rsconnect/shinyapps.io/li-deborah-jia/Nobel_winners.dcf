@@ -1,0 +1,13 @@
+name: Nobel_winners
+title: Nobel_winners
+username:
+account: li-deborah-jia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4197232
+bundleId: 4648543
+url: https://li-deborah-jia.shinyapps.io/Nobel_winners/
+when: 1622156889.84472
+lastSyncTime: 1622156889.84473
+asMultiple: FALSE
+asStatic: FALSE
